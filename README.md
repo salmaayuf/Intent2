@@ -2,7 +2,7 @@
 
 ![GitHub SC1](https://github.com/salmaayuf/Intent2/blob/master/Intent2_SalmaAyu_1.png)
 ![GitHub SC2](https://github.com/salmaayuf/Intent2/blob/master/Intent2_SalmaAyu_2.png)
-![GitHub SC2](https://github.com/salmaayuf/Intent2/blob/master/Intent2_SalmaAyu_3.png)
+![GitHub SC3](https://github.com/salmaayuf/Intent2/blob/master/Intent2_SalmaAyu_3.png)
 
 ##### Nama  : Salma Ayu Fahira
 ##### Kelas : XII RPL 5
